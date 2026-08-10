@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinfPaths</key>
+	<array>
+		<string>SC_Info/GMALite.sinf</string>
+	</array>
+	<key>SinfReplicationPaths</key>
+	<array>
+		<string>Frameworks/AP_PaySDK.framework/SC_Info/AP_PaySDK.sinf</string>
+		<string>Frameworks/Adyen3DS2.framework/SC_Info/Adyen3DS2.sinf</string>
+		<string>Frameworks/AkamaiBMP-companion.framework/SC_Info/AkamaiBMP-companion.sinf</string>
+		<string>Frameworks/AkamaiBMP.framework/SC_Info/AkamaiBMP.sinf</string>
+		<string>Frameworks/FBAEMKit.framework/SC_Info/FBAEMKit.sinf</string>
+		<string>Frameworks/FBSDKCoreKit.framework/SC_Info/FBSDKCoreKit.sinf</string>
+		<string>Frameworks/FBSDKCoreKit_Basics.framework/SC_Info/FBSDKCoreKit_Basics.sinf</string>
+		<string>Frameworks/FTRAuth.framework/SC_Info/FTRAuth.sinf</string>
+		<string>Frameworks/FTRCommon.framework/SC_Info/FTRCommon.sinf</string>
+		<string>Frameworks/FirebaseAnalytics.framework/SC_Info/FirebaseAnalytics.sinf</string>
+		<string>Frameworks/ForterSDK.framework/SC_Info/ForterSDK.sinf</string>
+		<string>Frameworks/GoogleAdsOnDeviceConversion.framework/SC_Info/GoogleAdsOnDeviceConversion.sinf</string>
+		<string>Frameworks/GoogleAppMeasurement.framework/SC_Info/GoogleAppMeasurement.sinf</string>
+		<string>Frameworks/GoogleAppMeasurementIdentitySupport.framework/SC_Info/GoogleAppMeasurementIdentitySupport.sinf</string>
+		<string>Frameworks/GoogleTagManager.framework/SC_Info/GoogleTagManager.sinf</string>
+		<string>Frameworks/KochavaCore.framework/SC_Info/KochavaCore.sinf</string>
+		<string>Frameworks/KochavaTracker.framework/SC_Info/KochavaTracker.sinf</string>
+		<string>Frameworks/Lottie.framework/SC_Info/Lottie.sinf</string>
+		<string>Frameworks/MultiplatformLibrary.framework/SC_Info/MultiplatformLibrary.sinf</string>
+		<string>PlugIns/MDSCLiveTrackingExtension.appex/SC_Info/MDSCLiveTrackingExtension.sinf</string>
+		<string>SC_Info/GMALite.sinf</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Domain</key>
+	<string>https://xp3.paydollar.com/</string>
+	<key>SDK_RSA_PublicKey</key>
+	<string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt9LVmd1ZwEA+bPKpbG1vrNJqsWsLMVMM8LRQpehj3GMTMi9vHVKIeCxNo9YqUbvWgP7njb9deShmR+HHlBgjZ7+39ksoTKe+Vnqatki8QeZ9M6uOmAj2EEpzH0HnQtIFmX0s/Yqc7ah/UeVJ5DBQTu5y51Rh6693irmGsyeRaNj7tZVHv9M3VzEN+DIZ6LsCeOVIdzxhBz6sw/KvM+ppb9pElhbYUKUhDPf2kcL+kX/Dt6pNX08z2dEwCQjgvVrxSFn/Em8enf3eD8hfreV8qJ/nBzf2w71cWoubmOzRmUfcxT0oBABI87KxJSTw5Z7dvsWlbqgkEZt9PWmL41aIGwIDAQAB</string>
+</dict>
+</plist>

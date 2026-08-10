@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>800121368657-kgpmsc7g8mr91kjf20i9kvq09j488k0p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.800121368657-kgpmsc7g8mr91kjf20i9kvq09j488k0p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>800121368657-gsupb3c7lu8pu0f2mauotaontbdjtfok.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD7w_4MVy7_9wg9C4PVkajM0k03XcNnKP0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>800121368657</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mcdonalds.mobileapp</string>
+	<key>PROJECT_ID</key>
+	<string>prd-euw-gmal-mcdonalds</string>
+	<key>STORAGE_BUCKET</key>
+	<string>prd-euw-gmal-mcdonalds.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:800121368657:ios:d1bb2f707afca01d</string>
+	<key>DATABASE_URL</key>
+	<string>https://prd-euw-gmal-mcdonalds.firebaseio.com</string>
+</dict>
+</plist>
